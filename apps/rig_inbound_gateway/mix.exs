@@ -77,7 +77,7 @@ defmodule RigInboundGateway.Mixfile do
        ref: "4e0a1c2a8ea0fa9b5ab72b5cab063458ce0b447d",
        only: :test},
       {:socket, "~> 0.3", only: :test},
-      {:joken, "~> 1.5"}
+      {:joken, "~> 2.0"}
     ]
   end
 
