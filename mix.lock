@@ -44,7 +44,7 @@
   "mox": {:hex, :mox, "0.5.0", "c519b48407017a85f03407a9a4c4ceb7cc6dec5fe886b2241869fb2f08476f9e", [:mix], [], "hexpm"},
   "murmur": {:hex, :murmur, "1.0.1", "a6e6bced2dd0d666090a9cf3e73699f3b9176bbcf32d35b0f022f137667608e3", [:mix], [], "hexpm"},
   "nimble_parsec": {:hex, :nimble_parsec, "0.5.0", "90e2eca3d0266e5c53f8fbe0079694740b9c91b6747f2b7e3c5d21966bba8300", [:mix], [], "hexpm"},
-  "odgn_json_pointer": {:hex, :odgn_json_pointer, "2.5.0", "d90b8e854cb2b59cc1ec6f0fd8a38026debadfdd2bc418364a0f51707ba6b0af", [:mix], [], "hexpm"},
+  "odgn_json_pointer": {:hex, :odgn_json_pointer, "3.0.0", "649cfe1a9d486b9b0aeb139d94fa6449983b465364b324e21d2488f49c84be3c", [:mix], [], "hexpm"},
   "parse_trans": {:hex, :parse_trans, "3.3.0", "09765507a3c7590a784615cfd421d101aec25098d50b89d7aa1d66646bc571c1", [:rebar3], [], "hexpm"},
   "peerage": {:hex, :peerage, "1.0.3", "945c3dfc407215b89682c65198d004028df0fa772bfea4d2cc9bb4e39e8be9a0", [:mix], [{:deferred_config, "~> 0.1.1", [hex: :deferred_config, repo: "hexpm", optional: false]}], "hexpm"},
   "phoenix": {:hex, :phoenix, "1.4.3", "8eed4a64ff1e12372cd634724bddd69185938f52c18e1396ebac76375d85677d", [:mix], [{:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: true]}, {:phoenix_pubsub, "~> 1.1", [hex: :phoenix_pubsub, repo: "hexpm", optional: false]}, {:plug, "~> 1.7", [hex: :plug, repo: "hexpm", optional: false]}, {:plug_cowboy, "~> 1.0 or ~> 2.0", [hex: :plug_cowboy, repo: "hexpm", optional: true]}], "hexpm"},

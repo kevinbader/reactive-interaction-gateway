@@ -58,7 +58,7 @@ defmodule Rig.MixProject do
       # JSON parser that's supposedly faster than poison:
       {:jason, "~> 1.1"},
       # JSON Pointer (RFC 6901) implementation for subscriptions:
-      {:odgn_json_pointer, "~> 2.3"},
+      {:odgn_json_pointer, "~> 3.0"},
       # Apache Kafka Erlang client library:
       {:brod, "~> 3.3"},
       # For distributed_set:
