@@ -44,7 +44,7 @@ defmodule RigAuth.Mixfile do
       {:rig_metrics, in_umbrella: true},
       {:confex, "~> 3.3"},
       {:httpoison, "~> 1.3"},
-      {:joken, "~> 1.5"},
+      {:joken, "~> 2.1"},
       {:phoenix, "~> 1.4.0"},
       {:plug, "~> 1.4"},
       {:poison, "~> 3.0 or ~> 4.0"},
