@@ -36,7 +36,7 @@ defmodule CloudEvents.MixProject do
     [
       # Encode/decode to/from JSON:
       {:jason, "~> 1.1"},
-      {:jaxon, "~> 1.0"},
+      {:jaxon, "~> 2.0"},
       # JSON Pointer implementation:
       {:odgn_json_pointer, "~> 2.3"}
     ]
